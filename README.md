@@ -4,6 +4,9 @@ This codebase contains **intentionally flawed code** with fake credentials for t
 
 **All credentials are fake. No real systems exist.**
 
+#### KSB - S21:
+- Identify and remediate technical debt, assess for updates and obsolescence as part of continuous improvement.
+
 ---
 
 # TechMart Sales Pipeline
