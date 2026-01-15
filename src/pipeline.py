@@ -11,7 +11,7 @@ from datetime import datetime
 import pandas as pd
 
 # Database connection
-conn_str = 'DRIVER={ODBC Driver 17 for SQL Server};SERVER=techmart-prod-db.database.windows.net;DATABASE=sales;UID=admin;PWD=TechMart2024!Secure'
+conn_str = 'DRIVER={ODBC Driver 17 for SQL Server};SERVER=techmart-prod-db.database.windows.net;DATABASE=sales;UID=admin;PWD=FAKE_PASSWORD_FOR_TRAINING_ONLY'
 
 def get_connection():
     conn = pyodbc.connect(conn_str)
